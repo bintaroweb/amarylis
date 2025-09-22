@@ -38,6 +38,18 @@ const HeroSection = () => {
 								Hunian Nyaman & Asri di Selatan Jakarta
 							</p>
 
+							<div className="flex items-center space-x-1 mt-2">
+								<Star className="h-4 w-4 fill-estate-secondary text-estate-secondary" />
+								<Star className="h-4 w-4 fill-estate-secondary text-estate-secondary" />
+								<Star className="h-4 w-4 fill-estate-secondary text-estate-secondary" />
+								<Star className="h-4 w-4 fill-estate-secondary text-estate-secondary" />
+								<Star className="h-4 w-4 fill-estate-secondary text-estate-secondary" />
+								{/* <br />
+								<p className="text-sm font-medium ml-2">
+									Premium Location
+								</p> */}
+							</div>
+
 							<p className="text-lg text-muted-foreground max-w-xl leading-relaxed">
 								Wujudkan impian keluarga dengan hunian premium
 								di cluster eksklusif yang menghadirkan
@@ -51,17 +63,6 @@ const HeroSection = () => {
 									Cirendeu, Tangerang Selatan
 								</span>
 							</div> */}
-							<div className="flex items-center space-x-1 mt-2">
-								<Star className="h-4 w-4 fill-estate-secondary text-estate-secondary" />
-								<Star className="h-4 w-4 fill-estate-secondary text-estate-secondary" />
-								<Star className="h-4 w-4 fill-estate-secondary text-estate-secondary" />
-								<Star className="h-4 w-4 fill-estate-secondary text-estate-secondary" />
-								<Star className="h-4 w-4 fill-estate-secondary text-estate-secondary" />
-								{/* <br />
-								<p className="text-sm font-medium ml-2">
-									Premium Location
-								</p> */}
-							</div>
 						</div>
 
 						{/* CTA Buttons */}
