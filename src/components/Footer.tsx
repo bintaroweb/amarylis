@@ -7,6 +7,7 @@ import {
 	Instagram,
 	Youtube,
 } from "lucide-react";
+import { FaWhatsapp } from "react-icons/fa";
 import amaryllisLogo from "@/assets/amaryllis-logo.png";
 
 const Footer = () => {
@@ -206,13 +207,13 @@ const Footer = () => {
 
 			{/* WhatsApp Float Button */}
 			<a
-				href="https://wa.me/6281234567890?text=Halo, saya tertarik dengan Amaryllis Estate Cirendeu"
+				href="https://wa.me/62816237189?text=Halo, saya tertarik dengan Amarylis Estate Cirendeu"
 				target="_blank"
 				rel="noopener noreferrer"
-				className="fixed bottom-6 right-6 w-14 h-14 bg-green-500 hover:bg-green-600 rounded-full flex items-center justify-center shadow-strong transition-all duration-300 transform hover:scale-110 z-40"
+				className="fixed bottom-4 right-4 w-14 h-14 bg-green-500 hover:bg-green-600 rounded-full flex items-center justify-center shadow-strong transition-all duration-300 transform hover:scale-110 z-40"
 				aria-label="Chat WhatsApp"
 			>
-				<Phone className="h-7 w-7 text-white" />
+				<FaWhatsapp className="h-7 w-7 text-white" />
 			</a>
 		</footer>
 	);
