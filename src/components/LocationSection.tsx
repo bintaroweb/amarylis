@@ -18,7 +18,7 @@ const LocationSection = () => {
 		},
 		{
 			name: "Mall Pondok Indah",
-			distance: "± 17 menit",
+			distance: "± 18 menit",
 			icon: ShoppingBag,
 			type: "Pusat Belanja",
 		},
