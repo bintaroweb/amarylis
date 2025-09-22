@@ -15,10 +15,10 @@ const HeroSection = () => {
 			id="beranda"
 			className="relative min-h-screen flex items-center bg-gradient-to-br from-estate-neutral to-background"
 		>
-			<div className="mx-auto px-4 py-20" style={{ width: "1180px" }}>
+			<div className="mx-auto px-4 py-14" style={{ width: "1180px" }}>
 				<div className="grid lg:grid-cols-2 gap-12 items-center">
 					{/* Content */}
-					<div className="space-y-8 animate-fade-in">
+					<div className="space-y-6 animate-fade-in">
 						<div className="space-y-6">
 							<div className="flex items-center space-x-2 text-estate-primary">
 								<Sparkles className="h-5 w-5" />
