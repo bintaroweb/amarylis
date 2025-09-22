@@ -86,7 +86,7 @@ const HeroSection = () => {
 						<div className="grid grid-cols-3 gap-6 pt-8 border-t border-border">
 							<div className="text-center">
 								<div className="text-2xl font-bold text-estate-primary">
-									Unit Ready
+									Ready
 								</div>
 								<div className="text-sm text-muted-foreground">
 									Cluster Eksklusif
