@@ -24,7 +24,7 @@ const LocationSection = () => {
 		},
 		{
 			name: "RS Pondok Indah",
-			distance: "± 13 menit",
+			distance: "± 15 menit",
 			icon: Hospital,
 			type: "Kesehatan",
 		},
