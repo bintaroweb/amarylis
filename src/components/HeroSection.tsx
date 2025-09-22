@@ -50,7 +50,7 @@ const HeroSection = () => {
 								</p> */}
 							</div>
 
-							<p className="text-lg text-muted-foreground max-w-xl leading-relaxed">
+							<p className="text-base text-muted-foreground max-w-xl leading-relaxed">
 								Wujudkan impian keluarga dengan hunian premium
 								di cluster eksklusif yang menghadirkan
 								kenyamanan, keamanan dan kemewahan di Selatan
