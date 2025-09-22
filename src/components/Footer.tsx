@@ -8,7 +8,6 @@ import {
 	Youtube,
 } from "lucide-react";
 import { FaWhatsapp } from "react-icons/fa";
-import amaryllisLogo from "@/assets/amaryllis-logo.png";
 
 const Footer = () => {
 	const currentYear = new Date().getFullYear();
@@ -37,7 +36,7 @@ const Footer = () => {
 							/> */}
 							<div>
 								<h3 className="text-2xl font-bold text-background">
-									AMARYLLIS ESTATE
+									AMARYLIS ESTATE
 								</h3>
 								<p className="text-estate-secondary font-medium">
 									CIRENDEU
@@ -174,8 +173,8 @@ const Footer = () => {
 					<div className="flex flex-col lg:flex-row justify-between items-center space-y-4 lg:space-y-0">
 						<div className="text-background/70 text-center lg:text-left">
 							<p>
-								&copy; {currentYear} Amaryllis Estate Cirendeu.
-								All rights reserved.
+								Copyright &copy; {currentYear} Amarylis Estate
+								Cirendeu.
 							</p>
 							{/* <p className="text-sm">
 								Developed with ❤️ for your Dream ome
