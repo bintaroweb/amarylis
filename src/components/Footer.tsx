@@ -177,9 +177,9 @@ const Footer = () => {
 								&copy; {currentYear} Amaryllis Estate Cirendeu.
 								All rights reserved.
 							</p>
-							<p className="text-sm">
+							{/* <p className="text-sm">
 								Developed with ❤️ for your Dream ome
-							</p>
+							</p> */}
 						</div>
 						<div className="flex flex-wrap justify-center lg:justify-end space-x-6 text-sm">
 							<a
