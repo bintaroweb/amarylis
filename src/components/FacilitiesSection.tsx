@@ -12,7 +12,7 @@ const FacilitiesSection = () => {
 			icon: Car,
 			title: "Tempat Parkir Luas",
 			description:
-				"Carport 2 mobil per unit dan area parkir tamu yang memadai",
+				"Carport untuk 2 mobil dan area parkir tamu yang memadai",
 		},
 		{
 			icon: TreePine,
@@ -28,14 +28,14 @@ const FacilitiesSection = () => {
 		},
 		{
 			icon: Users,
-			title: "Club House",
+			title: "One Gate System",
 			description:
-				"Fasilitas berkumpul dengan keluarga dan komunitas yang nyaman",
+				"Sistem satu pintu untuk keamanan dan kenyamanan penghuni",
 		},
 		{
 			icon: Zap,
-			title: "Listrik & Air",
-			description: "Listrik PLN 2200VA dan air PDAM dengan sistem backup",
+			title: "IPL Terjangkau",
+			description: "Biaya IPL yang kompetitif untuk fasilitas premium",
 		},
 	];
 
@@ -94,7 +94,7 @@ const FacilitiesSection = () => {
 						</div>
 						<div>
 							<div className="text-4xl font-bold mb-2">
-								10 Menit
+								± 10 Menit
 							</div>
 							<div className="text-lg">Ke Stasiun MRT</div>
 							<div className="text-sm opacity-90 mt-1">

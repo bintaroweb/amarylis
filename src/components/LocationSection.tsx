@@ -12,19 +12,19 @@ const LocationSection = () => {
 	let nearbyPlaces = [
 		{
 			name: "Stasiun MRT Lebak Bulus",
-			distance: "10 menit",
+			distance: "± 10 menit",
 			icon: Train,
 			type: "Transportasi",
 		},
 		{
 			name: "Mall Pondok Indah",
-			distance: "17 menit",
+			distance: "± 17 menit",
 			icon: ShoppingBag,
 			type: "Pusat Belanja",
 		},
 		{
 			name: "RS Pondok Indah",
-			distance: "13 menit",
+			distance: "± 13 menit",
 			icon: Hospital,
 			type: "Kesehatan",
 		},
@@ -36,13 +36,13 @@ const LocationSection = () => {
 		// },
 		{
 			name: "Tol Jakarta Outer Ring Road (JORR)",
-			distance: "10 menit",
+			distance: "± 10 menit",
 			icon: Car,
 			type: "Akses Tol",
 		},
 		{
 			name: "Sekolah Internasional",
-			distance: "12 menit",
+			distance: "± 12 menit",
 			icon: School,
 			type: "Pendidikan",
 		},

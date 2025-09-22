@@ -45,26 +45,27 @@ const HeroSection = () => {
 								Jakarta.
 							</p>
 
-							<div className="flex items-center space-x-2 text-estate-warm">
+							{/* <div className="flex items-center space-x-2 text-estate-warm">
 								<MapPin className="h-5 w-5 text-estate-primary" />
 								<span className="font-medium">
 									Cirendeu, Tangerang Selatan
 								</span>
-							</div>
-							{/* <div className="flex items-center space-x-1 mt-2">
-								<Star className="h-4 w-4 fill-estate-secondary text-estate-secondary" />
-								<Star className="h-4 w-4 fill-estate-secondary text-estate-secondary" />
-								<Star className="h-4 w-4 fill-estate-secondary text-estate-secondary" />
-								<Star className="h-4 w-4 fill-estate-secondary text-estate-secondary" />
-								<Star className="h-4 w-4 fill-estate-secondary text-estate-secondary" />
-								<span className="text-sm font-medium ml-2">
-									Premium Location
-								</span>
 							</div> */}
+							<div className="flex items-center space-x-1 mt-2">
+								<Star className="h-4 w-4 fill-estate-secondary text-estate-secondary" />
+								<Star className="h-4 w-4 fill-estate-secondary text-estate-secondary" />
+								<Star className="h-4 w-4 fill-estate-secondary text-estate-secondary" />
+								<Star className="h-4 w-4 fill-estate-secondary text-estate-secondary" />
+								<Star className="h-4 w-4 fill-estate-secondary text-estate-secondary" />
+								{/* <br />
+								<p className="text-sm font-medium ml-2">
+									Premium Location
+								</p> */}
+							</div>
 						</div>
 
 						{/* CTA Buttons */}
-						<div className="flex flex-col sm:flex-row gap-4">
+						{/* <div className="flex flex-col sm:flex-row gap-4">
 							<Button
 								size="lg"
 								onClick={() => scrollToSection("tipe-rumah")}
@@ -80,7 +81,7 @@ const HeroSection = () => {
 							>
 								Konsultasi Gratis
 							</Button>
-						</div>
+						</div> */}
 
 						{/* Key Features */}
 						<div className="grid grid-cols-3 gap-6 pt-8 border-t border-border">
@@ -97,7 +98,7 @@ const HeroSection = () => {
 									2 Lantai
 								</div>
 								<div className="text-sm text-muted-foreground">
-									Design Modern
+									Desain Modern
 								</div>
 							</div>
 							<div className="text-center">
@@ -105,7 +106,7 @@ const HeroSection = () => {
 									24/7
 								</div>
 								<div className="text-sm text-muted-foreground">
-									Keamanan
+									Keamanan Terjamin
 								</div>
 							</div>
 						</div>
