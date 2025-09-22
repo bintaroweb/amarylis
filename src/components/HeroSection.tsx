@@ -107,7 +107,7 @@ const HeroSection = () => {
 									24/7
 								</div>
 								<div className="text-sm text-muted-foreground">
-									Keamanan Terjamin
+									Keamanan
 								</div>
 							</div>
 						</div>
