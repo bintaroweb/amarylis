@@ -68,7 +68,7 @@ const HeroSection = () => {
 							<Button
 								size="lg"
 								onClick={() => scrollToSection("tipe-rumah")}
-								className="bg-gradient-primary hover:opacity-90 transition-all duration-300 transform hover:scale-105 shadow-medium text-lg px-8 py-6"
+								className="bg-secondary text-black hover:opacity-90 transition-all duration-300 transform hover:scale-105 shadow-medium text-lg px-8 py-6"
 							>
 								Lihat Tipe Rumah
 							</Button>
