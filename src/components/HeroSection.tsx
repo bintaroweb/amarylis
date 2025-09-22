@@ -19,7 +19,7 @@ const HeroSection = () => {
 				<div className="grid lg:grid-cols-2 gap-12 items-center">
 					{/* Content */}
 					<div className="space-y-6 animate-fade-in">
-						<div className="space-y-6">
+						<div className="space-y-5">
 							<div className="flex items-center space-x-2 text-estate-primary">
 								<Sparkles className="h-5 w-5" />
 								<span className="font-medium text-sm tracking-wide uppercase">
