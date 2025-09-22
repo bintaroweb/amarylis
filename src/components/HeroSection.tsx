@@ -27,7 +27,7 @@ const HeroSection = () => {
 								</span>
 							</div>
 
-							<h1 className="text-4xl uppercase lg:text-6xl font-bold text-estate-warm leading-tight">
+							<h1 className="text-5xl uppercase lg:text-6xl font-bold text-estate-warm leading-tight">
 								Amarylis ESTATE
 								<span className="block text-estate-primary">
 									CIRENDEU
