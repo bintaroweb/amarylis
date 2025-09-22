@@ -115,8 +115,8 @@ const HeroSection = () => {
 					<div className="relative animate-slide-in">
 						<div className="relative rounded-3xl overflow-hidden shadow-strong">
 							<img
-								src={heroInterior}
-								alt="Interior modern Amarylis Estate Cirendeu"
+								src="https://amarylisestatecirendeu.com/wp-content/uploads/2022/10/Amarylis-Estate-Cirendeu-New.jpg"
+								alt="Amarylis Estate Cirendeu"
 								className="w-full h-[600px] object-cover"
 							/>
 							<div className="absolute inset-0 bg-gradient-to-t from-estate-dark/20 to-transparent"></div>
