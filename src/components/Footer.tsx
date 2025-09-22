@@ -46,7 +46,7 @@ const Footer = () => {
 						</div>
 						<p className="text-background/80 leading-relaxed mb-6 max-w-md">
 							Cluster premium yang menghadirkan hunian nyaman dan
-							asri di lokasi strategis Jakarta Selatan. Investasi
+							asri di lokasi strategis Selatan Jakarta. Investasi
 							terbaik untuk masa depan keluarga Anda.
 						</p>
 						<div className="flex space-x-4">
